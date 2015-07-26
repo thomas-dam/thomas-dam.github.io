@@ -3,7 +3,7 @@ layout: post
 Title: Table test
 ---
 
-This is a test of satandard GFM tables
+This is a test of standard GFM tables
 
 | **Name**  | **Country** 	| **Flight** 	| **ETA**  	|
 | Thomas 	| Denmark 	| SK447  	| 0800 	|
