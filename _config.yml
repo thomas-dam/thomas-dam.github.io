@@ -11,6 +11,8 @@ tagline:             'Handling Macs in the enviroment forgotten by Apple'
 #url:                 'http://thomasdam.io/'
 #baseurl:             'https://github.com/thomas-dam/thomas-dam.github.io'
 paginate:            5
+excerpt_separator: "<!--more-->"
+
 
 #Markdown settings
 markdown: kramdown
